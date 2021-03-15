@@ -1,0 +1,7 @@
+body {
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  background-image: url("Bilder/castel_Background.png");
+  background-size: cover;
+}
